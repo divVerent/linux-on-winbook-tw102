@@ -8,17 +8,17 @@ tablet that you can actually run Linux on.
 I wanted to run Linux on it, and got it to mostly work, including
 the following hardware:
 
-- Intel graphics, including OpenGL and Vulkan
-- Display backlight
-- Keyboard
-- Sound (needed non-free firmware)
-- WiFi (needed non-free firmware)
-- Touchscreen (needed "hard to obtain" non-free firmware)
-- Bluetooth (needed non-free firmware)
+* Intel graphics, including OpenGL and Vulkan
+* Display backlight
+* Keyboard
+* Sound (needed non-free firmware)
+* WiFi (needed non-free firmware)
+* Touchscreen (needed "hard to obtain" non-free firmware)
+* Bluetooth (needed non-free firmware)
 
 For now I have _not_ gotten the following to work:
 
-- Camera
+* Camera
 
 # What You Need
 
